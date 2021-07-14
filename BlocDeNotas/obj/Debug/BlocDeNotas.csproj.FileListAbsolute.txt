@@ -1,0 +1,12 @@
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\bin\Debug\BlocDeNotas.exe.config
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\bin\Debug\BlocDeNotas.exe
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\bin\Debug\BlocDeNotas.pdb
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.csprojAssemblyReference.cache
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.Properties.Resources.resources
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.GenerateResource.cache
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.exe
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.principal.resources
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.confirma.resources
+C:\Users\rubi-\Desktop\interfaces\BlocDeNotas\obj\Debug\BlocDeNotas.Buscar.resources
